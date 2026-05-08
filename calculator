@@ -1,0 +1,5 @@
+from tkinter import *
+a=Tk()
+a.geometry("400x500")
+a.title("CALCULATOR")
+a.mainloop()
